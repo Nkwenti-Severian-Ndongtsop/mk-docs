@@ -11,6 +11,7 @@ theme:
 nav:
   - Home: index.md
   - About: about.md
+  - Docker: docker.md
 
 # Extra settings
 markdown_extensions:
@@ -22,5 +23,5 @@ markdown_extensions:
 # Repository configuration (for the edit link on pages)
 repo_name: Nkwenti-Severian-Ndongtsop/mk-docs
 repo_url: https://github.com/
-/mk-docs
+/mk-docs:
 edit_uri: edit/master/docs/
