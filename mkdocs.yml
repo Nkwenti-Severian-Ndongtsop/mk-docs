@@ -5,7 +5,7 @@ site_url: 'https://Nkwenti-Severian-Ndongtsop.github.io/mk-docs'  # Change this 
 
 # Theme settings
 theme:
-  name: material
+  name: mkdocs
 
 # Navbar settings (site structure)
 nav:
